@@ -1,0 +1,13 @@
+From http://goldendict.berlios.de/forum/viewtopic.php?f=5&t=703:
+
+fast_rizwaan wrote:
+
+Essential English Dictionary 1.00riz is based on Wordnet 3.0, which I saw in Lingoes dictionary program. Wordnet 3.0 gives added information of synonyms, hypernyms, which makes the dictionary output cluttered. So, I realized that removing the extra thesaurus elements from wordnet makes it a good dictionary which gives precise meanings without cluttering the dictionary (goldendict) interface/page.
+
+Please download it here:
+http://www.mediafire.com/?sharekey=7891 ... 2b9fc3640c
+
+Copyright:
+http://wordnet.princeton.edu/wordnet/license/
+Permission to use, copy, modify and distribute this software and database and its documentation for any purpose and without fee or royalty is hereby granted, provided that you agree to comply with the following copyright notice and statements, including the disclaimer, and that the same appear on ALL copies of the software, database and documentation, including modifications that you make for internal use or for distribution. WordNet 3.0 Copyright 2006 by Princeton University.
+
