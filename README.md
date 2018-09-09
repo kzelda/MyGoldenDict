@@ -1,7 +1,7 @@
 # MyGoldenDict
 ## My Personal dictionaries collection
 
-<img src="https://raw.githubusercontent.com/kzelda/MyGoldenDict/master/Doc/GoldenDict_3.gif" />
+<img src="https://raw.githubusercontent.com/kzelda/MyGoldenDict/master/Doc/GoldenDict_3.png" />
 <br />
 <img src="https://raw.githubusercontent.com/kzelda/MyGoldenDict/master/Doc/GoldenDict_2.gif" />
 <br />
