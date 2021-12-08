@@ -7,7 +7,10 @@ https://github.com/goldendict/goldendict
 https://sourceforge.net/projects/goldendict/files/
 
 ## My Personal dictionaries collection
-Arab + English + French<br>
+- Arab ![image](https://user-images.githubusercontent.com/592467/145190437-e1492da3-4887-46f0-9028-537e01f95144.png)
+- English
+- French
+
 https://github.com/kzelda/MyGoldenDict/tree/master/Dicos
 
 ## Screenshots
