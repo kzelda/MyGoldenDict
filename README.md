@@ -1,5 +1,5 @@
 ## MyGoldenDict
-This project offers a collection of goldendict compatible dictionary
+This project offers a collection of goldendict compatible dictionaries
 
 ## Goldendict project
 https://github.com/goldendict/goldendict
