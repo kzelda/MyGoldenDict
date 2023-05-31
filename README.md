@@ -5,7 +5,7 @@ This project offers a collection of goldendict compatible dictionaries
 - Arabic ![image](https://github.com/kzelda/MyGoldenDict/assets/592467/4e645823-d981-4900-a542-4001714abf7b)
 - English
 - French
-- 
+
 ## Goldendict project home
 https://github.com/goldendict/goldendict
 
