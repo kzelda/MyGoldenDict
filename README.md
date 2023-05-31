@@ -1,16 +1,19 @@
-# MyGoldenDict
+## MyGoldenDict
+This project offers a collection of goldendict compatible dictionary
 
 ## Goldendict project
 https://github.com/goldendict/goldendict
 
-## Goldendict builds
-https://sourceforge.net/projects/goldendict/files/
+## Releases
+- https://github.com/goldendict/goldendict/releases
+- https://sourceforge.net/projects/goldendict/files/
 
-## My Personal dictionaries collection
-- Arab ![image](https://user-images.githubusercontent.com/592467/145190437-e1492da3-4887-46f0-9028-537e01f95144.png)
+## Languages
+- Arabic ![image](https://github.com/kzelda/MyGoldenDict/assets/592467/4e645823-d981-4900-a542-4001714abf7b)
 - English
 - French
 
+## Download Dictionaries
 https://github.com/kzelda/MyGoldenDict/tree/master/Dicos
 
 ## Screenshots
