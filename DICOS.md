@@ -58,5 +58,3 @@
 | `WordNet_3.0` | Linguistique | Base de données lexicale anglaise (Oxford/Princeton). |
 
 ---
-
-Souhaitez-vous que je vous aide à trier cette liste par langue source (ex: mettre tous les dictionnaires Arabe ensemble) ?
